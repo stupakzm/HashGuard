@@ -19,4 +19,4 @@ HashGuard is a console application in C# designed to calculate and compare hash 
 
 ## Prerequisites
 
-Ensure that you have the .NET environment set up on your machine to run C# applications. Also, the program uses `UtilityKit.dll` for resolving shortcuts which should be properly referenced in your project. You can find more about `UtilityKit` and its functionalities [#UtilityKit-Link](https://github.com/stupakzm/UtilityKit).
+Ensure that you have the .NET environment set up on your machine to run C# applications. Also, the program uses `UtilityKit.dll` for resolving shortcuts which should be properly referenced in your project. You can find more about `UtilityKit` and its functionalities [here](https://github.com/stupakzm/UtilityKit).
